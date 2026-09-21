@@ -1,6 +1,10 @@
 # E-Commerce Data Warehouse
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-2CA5E0?logo=Apache%20Airflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 ![Status](https://img.shields.io/badge/version-v1.0-green)
 
 ## 🧭 Project Overview
