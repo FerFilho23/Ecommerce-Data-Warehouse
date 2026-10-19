@@ -4,7 +4,7 @@ substitutions:
   _REGION: 'us-central1'
   _IMAGE_NAME: '${_SERVICE_NAME}'
   _AR_REPO: 'cloud-run'
-  _PATH: 'GCP/pipeline-ecommerce-bq-dbt/cloud_run_dbt'
+  _PATH: 'cloud_run_dbt'
   _BUILD_SA: 'cloudbuild-runner-sa@hallowed-nectar-509600-h4.iam.gserviceaccount.com'
   _RUN_SA: 'dbt-runner-sa@hallowed-nectar-509600-h4.iam.gserviceaccount.com'
 
